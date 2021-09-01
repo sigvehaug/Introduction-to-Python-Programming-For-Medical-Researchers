@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KingaS03/Introduction-to-Python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sigvehaug/Introduction-to-Python-Programming-For-Medical-Researchers)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Introduction-to-Python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/Introduction-to-Python-Programming-For-Medical-Researchers)
 
 # Introduction to Python Course
  
