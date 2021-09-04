@@ -16,6 +16,12 @@ Day two is still to be provided.
 
 2021-09-04, S. Haug
 
+## Data
+
+The images and metadata of the "ISIC 2019: Training" data are licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC-BY-NC). The Data folder contains a small subsample of the dataset.
+
 ## License
 
 The materials from *Jake VanderPlas* were modified respecting the licence they were published with. The modified material is released under the same "No Rights Reserved" [CC0](LICENSE)
