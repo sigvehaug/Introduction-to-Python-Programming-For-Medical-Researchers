@@ -4,7 +4,7 @@
  
 This course is a two days crash course for medical researchers. It intends to show how Python can be used for analysis of table and image data. Further it provides examples on how to manage files from Python. It is also a fast paced walk through most basic Python concepts. This is based on the on the book and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). Some content has also been provided by Kinga Sipos.
 
-<img src="Course/fig/cover-large.gif">
+<img src="cover-small.jpg">
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers.
