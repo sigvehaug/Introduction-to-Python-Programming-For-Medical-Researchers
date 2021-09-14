@@ -27,18 +27,18 @@ components of the Python language for researchers and developers.
 - 17:00 End
 
 ### Day 2
-09:00 Discussion
-09:30 Numpy and Images
-10:30 Break
-11:00 Interactive Plotting
-12:00 Exercise 3
-12:30 Lunch
-13:30 Discussion
-14:00 Basic Image Processing
-15:00 Break
-15:30 Exercise 4
-16:30 Assessment clarification, Summary and Feedback
-17:00 End
+- 09:00 Discussion
+- 09:30 Numpy and Images
+- 10:30 Break
+- 11:00 Interactive Plotting
+- 12:00 Exercise 3
+- 12:30 Lunch
+- 13:30 Discussion
+- 14:00 Basic Image Processing
+- 15:00 Break
+- 15:30 Exercise 4
+- 16:30 Assessment clarification, Summary and Feedback
+- 17:00 End
 
 2021-09-04, S. Haug
 
