@@ -12,19 +12,19 @@ components of the Python language for researchers and developers.
 ## Schedule
 
 ### Day 1
-09:00 Introduction
-09:15 Python and Jupyter Notebooks 
-09:45 Medical Data Analysis on Table Data
-10:30 Break
-11:00 Basic Python 1
-12:00 Exercise 1
-12:30 Lunch
-13:30 Discussion
-14:00 Basic Python 2
-15:00 Break
-15:30 
-16:30 Homework clarification (Exercise 2), Summary and Feedback
-17:00 End
+- 09:00 Introduction
+- 09:15 Python and Jupyter Notebooks 
+- 09:45 Medical Data Analysis on Table Data
+- 10:30 Break
+- 11:00 Basic Python 1
+- 12:00 Exercise 1 
+- 12:30 Lunch
+- 13:30 Discussion
+- 14:00 Medical Data Analysis on Image Data
+- 15:00 Break
+- 15:30 Basic Python 2
+- 16:30 Homework clarification (Exercise 2), Summary and Feedback
+- 17:00 End
 
 ### Day 2
 09:00 Discussion
