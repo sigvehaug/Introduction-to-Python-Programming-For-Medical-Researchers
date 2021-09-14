@@ -9,10 +9,36 @@ This course is a two days crash course for medical researchers. It intends to sh
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers.
 
-##
+## Schedule
 
-Day one consists of 7 sessions including two case studies (examples) with medical data and two 30-60 min exercises of which the second is a homework.
-Day two is still to be provided.
+### Day 1
+09:00 Introduction
+09:15 Python and Jupyter Notebooks 
+09:45 Medical Data Analysis on Table Data
+10:30 Break
+11:00 Basic Python 1
+12:00 Exercise 1
+12:30 Lunch
+13:30 Discussion
+14:00 Basic Python 2
+15:00 Break
+15:30 
+16:30 Homework clarification (Exercise 2), Summary and Feedback
+17:00 End
+
+### Day 2
+09:00 Discussion
+09:30 Numpy and Images
+10:30 Break
+11:00 Interactive Plotting
+12:00 Exercise 3
+12:30 Lunch
+13:30 Discussion
+14:00 Basic Image Processing
+15:00 Break
+15:30 Exercise 4
+16:30 Assessment clarification, Summary and Feedback
+17:00 End
 
 2021-09-04, S. Haug
 
